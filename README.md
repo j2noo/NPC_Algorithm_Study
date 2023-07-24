@@ -46,9 +46,9 @@
 
 #### 백준
 
-- Baekjoon/jinwoo/n주차/문제명.py
-- Baekjoon/jinwoo/n주차/문제명.py
-- Baekjoon/jinwoo/n주차/문제명.py
+- jinwoo/n주차/문제명.py
+- [이름]/n주차/문제명.py
+- [이름]/n주차/문제명.py
 
 ### 스터디 진행 상황
 
