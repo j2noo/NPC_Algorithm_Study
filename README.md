@@ -29,7 +29,7 @@
 #### 진행 방식
 
 - 날짜 및 시간은 최대한 유동적으로 진행하되, 주 1회는 지켰으면 합니다.
-- [여기](https://github.com/soo5717/2021-Algorithm-Study#readme)를 참고했습니다.g
+- [여기](https://github.com/soo5717/2021-Algorithm-Study#readme)를 참고했습니다.
 - 화이팅
 
 ## PR 규칙 및 Commit Message 규칙
@@ -40,15 +40,15 @@
 
 #### Commit Message
 
-- [n주차-문제번호] 문제명
+- [n주차] 문제명
 
 ## 파일 및 폴더 구조
 
 #### 백준
 
-- Baekjoon/jinwoo/n주차/문제번호\_문제명.py
-- Baekjoon/jinwoo/n주차/문제번호\_문제명.py
-- Baekjoon/jinwoo/n주차/문제번호\_문제명.py
+- Baekjoon/jinwoo/n주차/문제명.py
+- Baekjoon/jinwoo/n주차/문제명.py
+- Baekjoon/jinwoo/n주차/문제명.py
 
 ### 스터디 진행 상황
 
