@@ -47,8 +47,8 @@
 #### 백준
 
 - jinwoo/n주차/문제명.py
-- [이름]/n주차/문제명.py
-- [이름]/n주차/문제명.py
+- dongha/n주차/문제명.py
+- seunghye/n주차/문제명.py
 
 ### 스터디 진행 상황
 
@@ -57,3 +57,4 @@
 | **주차** | **문제 1**                                                     | **문제 2**                                                 | **문제 3**                                   | **문제 4**                                           | **문제 5**                                             |
 | -------- | -------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------ |
 | 1주차    | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [보물](https://www.acmicpc.net/problem/1026) | [2\*n 타일링](https://www.acmicpc.net/problem/11726) | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |
+| 2주차    | [셀프 넘버](https://www.acmicpc.net/problem/4673)              | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)   | [로프](https://www.acmicpc.net/problem/2217) | [계단 오르기](https://www.acmicpc.net/problem/2579)  | [봄버맨](https://www.acmicpc.net/problem/16918)        |
