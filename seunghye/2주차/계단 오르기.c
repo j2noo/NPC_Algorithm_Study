@@ -15,7 +15,7 @@ int main() {
 	max_st[0] = st[0];
 	max_st[1] = max(st[0] + st[1], st[1]);
 	max_st[2] = max(st[0] + st[2], st[1] + st[2]);
-	//i-1 계단 (i + i-1 + max(i-3)) vs i-2 계단 (i + max(i-2))
+	//n번째 계단에서, n-1번째 계단 vs n-2번째 계단 중 선택
 	for (int i = 3; i < n; i++) {
 		max_st[i] = max(st[i] + st[i - 1] + max_st[i - 3], st[i] + max_st[i - 2]);
 	}
