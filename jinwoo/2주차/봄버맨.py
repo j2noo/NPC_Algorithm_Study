@@ -13,14 +13,13 @@ for time in range(1, N):
 
     for i in range(R):
         for j in range(C):
-            beforeArr[i][j] = arr[i][j]
             bombArr[i][j] = "O"
 
     # 폭발검사
     for i in range(R):
         for j in range(C):
             # 원래 폭탄이 없는칸이었으면 패스
-            if beforeArr[i][j] == ".":
+            if arr[i][j] == ".":
                 continue
 
             # 원래 폭탄이 존재하던 칸 = 터져야 하는 칸
