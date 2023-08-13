@@ -18,13 +18,4 @@ for _ in range(T):
             min = data[1]
             cnt += 1
 
-    arr = sorted(arr, key=lambda x: x[1])
-
-    min2 = 0x3F3F3F3F
-    cnt2 = 0
-    for data in arr:
-        if data[0] < min2:
-            min2 = data[0]
-            cnt2 += 1
-
-    print(max(cnt, cnt2))
+    print(cnt)
