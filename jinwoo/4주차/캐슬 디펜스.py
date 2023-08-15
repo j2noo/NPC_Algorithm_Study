@@ -58,7 +58,7 @@ def solve(stack):
             if copyArr[shoot[0]][shoot[1]] == 1:
                 copyArr[shoot[0]][shoot[1]] = 0
                 cnt += 1
-        # 아래로
+        #  아래로
         for i in range(N - 1, 0, -1):
             copyArr[i] = copyArr[i - 1]
         copyArr[0] = [0] * M
